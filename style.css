@@ -27,12 +27,10 @@ body {
     line-height: 72px;
 }
 
-.middle {
-    /* border: 1px solid white; */
-    width: 597px;
-    height: 53px; 
+ .middle {
+    /* border: 1px solid white; */ 
     margin-left: 100px;
-}
+} 
 
 .middle input {
     width: 500px;
