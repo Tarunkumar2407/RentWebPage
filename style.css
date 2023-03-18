@@ -18,6 +18,7 @@ body {
     justify-content: space-between;
     align-items: center;
     height: 72px;
+    width:95%;
 }
 
 .left {
