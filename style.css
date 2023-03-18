@@ -97,6 +97,7 @@ body {
 }
 .about-section{
     /* border:1px solid white; */
+    width:95%;
     padding:40px;
     background-color: #262626;
     border-radius: 50px;
@@ -154,6 +155,7 @@ body {
 }
 .categories{
     padding: 40px;
+    width:95%;
     /* border: 1px solid white; */
 }
 .our-categories{
@@ -195,6 +197,7 @@ body {
 }
 .footer{
     /* border: 1px solid white; */
+    width:95%
     margin-top: 20px;
     background-color: #262626;
     border-radius: 30px;
